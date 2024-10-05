@@ -8,8 +8,8 @@ This project implements a facial recognition system using a Siamese neural netwo
 - Keras: A high-level neural networks API to simplify the model creation process.
 - OpenCV: For image processing and webcam integration.
 - NumPy: For handling numerical operations on image data.
-    Matplotlib: For visualizing the results.
-    UUID: For generating unique identifiers for collected images.
+- Matplotlib: For visualizing the results.
+- UUID: For generating unique identifiers for collected images.
 
 ### Features
 
