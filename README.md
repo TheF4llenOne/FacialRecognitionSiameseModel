@@ -4,10 +4,10 @@
 This project implements a facial recognition system using a Siamese neural network architecture. The model is designed to differentiate between similar and dissimilar faces by learning a similarity function. This approach is particularly effective for tasks such as face verification and one-shot learning scenarios, where the model must recognize a face from a single example.
 ### Technologies Used
 
-    - TensorFlow: For building and training the neural network.
-    - Keras: A high-level neural networks API to simplify the model creation process.
-    OpenCV: For image processing and webcam integration.
-    NumPy: For handling numerical operations on image data.
+- TensorFlow: For building and training the neural network.
+- Keras: A high-level neural networks API to simplify the model creation process.
+- OpenCV: For image processing and webcam integration.
+- NumPy: For handling numerical operations on image data.
     Matplotlib: For visualizing the results.
     UUID: For generating unique identifiers for collected images.
 
